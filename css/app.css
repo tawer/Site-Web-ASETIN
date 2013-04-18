@@ -17,7 +17,7 @@ body{
 }
 
 .fixed-height-quad{
-	height: 250px;
+	height: 300px;
 }
 
 @media (max-width: 480px){

@@ -8,4 +8,31 @@ body{
 
 p{
 	text-align:justify
+	
 	}
+p{
+font-family: Arial, Helvetica, sans-serif
+}
+p {
+font-size:16px;
+}
+p{
+line-height: 1.5
+}
+facebook
+{
+color: blue
+}
+a:link {
+color: #0000FF;
+}
+a:visited {
+color: #000099;
+}
+a:hover {
+color: #CCCCCC;
+text-decoration: none;
+}
+a:active {
+color: #333333;
+}
