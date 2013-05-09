@@ -16,6 +16,7 @@ font-style: italic;
 asetin
 {
 font-weight: bold;
+text-transform: uppercase;
 }
 a:link {
 color: #0000FF;
