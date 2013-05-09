@@ -9,7 +9,13 @@ text-align:justify;
 }
 facebook
 {
-color: blue
+color: blue;
+text-transform: uppercase;
+font-style: italic;
+}
+asetin
+{
+font-weight: bold;
 }
 a:link {
 color: #0000FF;
@@ -18,8 +24,8 @@ a:visited {
 color: #0000FF;
 }
 a:hover {
-color: #3333CC;
-text-decoration: none;
+color: #0000FF;
+text-decoration: underline;
 }
 a:active {
 color: #333333;
@@ -44,4 +50,8 @@ text-align: center;
 .petille
 {
 text-decoration: blink;
+}
+.facebook
+{
+color: #ffffff;
 }
